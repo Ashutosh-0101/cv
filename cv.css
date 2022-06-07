@@ -1,0 +1,11 @@
+img{
+    height: 184px;
+    width: 168px;
+    border-radius: 90px;
+}
+h3 ,h1{
+    color: rgb(6, 103, 155);
+}
+body{
+    background-color: rgb(188, 213, 244);
+}
